@@ -1,6 +1,8 @@
 # AR-SmartTrash
 
-# Vuforia
+You can find the detailed documentation of what I done in the project in [Doc_AR.pdf](./Doc_AR.pdf) file.
+
+# Setup Informations
 
 - Add Input System package.
 version: 1.7.0
